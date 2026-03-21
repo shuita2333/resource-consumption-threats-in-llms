@@ -13,8 +13,8 @@ This page collects papers on resource-oriented attacks against large models, rea
 
 | Published | First Author Institution | Venue | Title | Keywords |
 |:--|:--|:--|:--|:--|
-| 2026-02 | Unknown | arXiv | [Rethinking Latency Denial-of-Service: Attacking the LLM Serving Framework, Not the Model](https://arxiv.org/abs/2602.07878) | LLM & Unbounded Drift & Serving Framework & Scheduler Attack |
-| 2026-01 | Unknown | arXiv | [Sponge Tool Attack: Stealthy Denial-of-Efficiency against Tool-Augmented Agentic Reasoning](https://arxiv.org/abs/2601.17566) | Agent & Overthinking & Tool Attack & Prompt Rewriting |
+| 2026-02 | Zhejiang University | arXiv | [Rethinking Latency Denial-of-Service: Attacking the LLM Serving Framework, Not the Model](https://arxiv.org/abs/2602.07878) | LLM & Unbounded Drift & Serving Framework & Scheduler Attack |
+| 2026-01 | National University of Singapore | arXiv | [Sponge Tool Attack: Stealthy Denial-of-Efficiency against Tool-Augmented Agentic Reasoning](https://arxiv.org/abs/2601.17566) | Agent & Overthinking & Tool Attack & Prompt Rewriting |
 | 2026-01 | Sun Yat-sen University | arXiv | [DrainCode: Stealthy Energy Consumption Attacks on Retrieval-Augmented Code Generation via Context Poisoning](https://arxiv.org/abs/2601.20615) | Agent & Unbounded Drift & Context Poisoning & Energy Drain |
 | 2025-12 | Shanghai Jiao Tong University | arXiv | [ThinkTrap: Denial-of-Service Attacks against Black-box LLM Services via Infinite Thinking](https://arxiv.org/abs/2512.07086) | RLLM & Overthinking & Infinite Thinking & Black-box DoS |
 | 2025-11 | National Interdisciplinary Research Center of Engineering Physics | AAAI 2026 | [LoopLLM: Transferable Energy-Latency Attacks in LLMs via Repetitive Generation](https://arxiv.org/abs/2511.07876) | LLM & Unbounded Drift & Repetitive Generation & Energy-Latency |

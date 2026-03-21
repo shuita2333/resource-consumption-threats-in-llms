@@ -13,7 +13,7 @@ This page collects papers that help explain, analyze, or interpret resource cons
 
 | Published | First Author Institution | Venue | Title | Keywords |
 |:--|:--|:--|:--|:--|
-| 2025-12 | Unknown | arXiv | [RepetitionCurse: Measuring and Understanding Router Imbalance in Mixture-of-Experts LLMs under DoS Stress](https://arxiv.org/abs/2512.23995) | LLM & Unbounded Drift & MoE Routing & DoS Stress |
+| 2025-12 | Hong Kong University of Science and Technology | arXiv | [RepetitionCurse: Measuring and Understanding Router Imbalance in Mixture-of-Experts LLMs under DoS Stress](https://arxiv.org/abs/2512.23995) | LLM & Unbounded Drift & MoE Routing & DoS Stress |
 | 2025-10 | NVIDIA | IISWC 2025 | [EdgeReasoning: Characterizing Reasoning LLM Deployment on Edge GPUs](https://arxiv.org/abs/2511.01866) | RLLM & Overthinking & Edge Deployment & Latency-Accuracy Tradeoff |
 | 2025-04 | Mohamed bin Zayed University of Artificial Intelligence | NAACL 2025 Findings | [Repetition Neurons: How Do Language Models Produce Repetitions?](https://aclanthology.org/2025.naacl-short.41/) | LLM & Unbounded Drift & Repetition Neurons & Mechanistic Analysis |
 | 2025-03 | EPFL | arXiv | [Repetitions are not all alike: distinct mechanisms sustain repetition in language models](https://arxiv.org/abs/2503.17500) | LLM & Unbounded Drift & Repetition Mechanisms & Dynamics Analysis |
