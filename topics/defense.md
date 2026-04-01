@@ -13,6 +13,7 @@ This page collects papers on defense, mitigation, and control mechanisms for res
 
 | Published | First Author Institution | Venue | Title | Keywords |
 |:--|:--|:--|:--|:--|
+| 2026-02 | King Abdullah University of Science and Technology | arXiv | [PACE: Prefix-Protected and Difficulty-Aware Compression for Efficient Reasoning](https://arxiv.org/abs/2602.11639) | RLLM & Overthinking & Prefix Protection & Difficulty-Aware Compression |
 | 2026-01 | University of Moratuwa | arXiv | [SHIELD: An Auto-Healing Agentic Defense Framework for LLM Resource Exhaustion Attacks](https://arxiv.org/abs/2601.19174) | Agent & Unbounded Drift & Auto-Healing Defense & Resource Monitoring |
 | 2025-11 | Beijing University of Posts and Telecommunications | Findings of EMNLP 2025 | [PD3F: A Pluggable and Dynamic DoS-Defense Framework Against Resource Consumption Attacks Targeting Large Language Models](https://aclanthology.org/2025.findings-emnlp.195/) | LLM & Unbounded Drift & DoS Defense & Adaptive Suppression |
 | 2025-10 | The University of Hong Kong | arXiv | [Breaking the Loop: Detecting and Mitigating Denial-of-Service Vulnerabilities in Large Language Models](https://arxiv.org/abs/2510.01157) | LLM & Unbounded Drift & DoS Mitigation & Loop Detection |
