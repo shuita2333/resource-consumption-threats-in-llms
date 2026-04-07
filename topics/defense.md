@@ -13,11 +13,14 @@ This page collects papers on defense, mitigation, and control mechanisms for res
 
 | Published | First Author Institution | Venue | Title | Keywords |
 |:--|:--|:--|:--|:--|
+| 2026-04 | University of Maryland | arXiv | [Early Stopping for Large Reasoning Models via Confidence Dynamics](https://arxiv.org/abs/2604.04930) | RLLM & Overthinking & Early Stopping & Confidence Dynamics |
 | 2026-02 | King Abdullah University of Science and Technology | arXiv | [PACE: Prefix-Protected and Difficulty-Aware Compression for Efficient Reasoning](https://arxiv.org/abs/2602.11639) | RLLM & Overthinking & Prefix Protection & Difficulty-Aware Compression |
 | 2026-01 | University of Moratuwa | arXiv | [SHIELD: An Auto-Healing Agentic Defense Framework for LLM Resource Exhaustion Attacks](https://arxiv.org/abs/2601.19174) | Agent & Unbounded Drift & Auto-Healing Defense & Resource Monitoring |
+| 2026-01 | Chung-Ang University | arXiv | [Mitigating Cognitive Inertia in Large Reasoning Models via Latent Spike Steering](https://arxiv.org/abs/2601.22484) | RLLM & Overthinking & Latent Spike Steering & Cognitive Inertia |
 | 2025-11 | Beijing University of Posts and Telecommunications | Findings of EMNLP 2025 | [PD3F: A Pluggable and Dynamic DoS-Defense Framework Against Resource Consumption Attacks Targeting Large Language Models](https://aclanthology.org/2025.findings-emnlp.195/) | LLM & Unbounded Drift & DoS Defense & Adaptive Suppression |
 | 2025-10 | The University of Hong Kong | arXiv | [Breaking the Loop: Detecting and Mitigating Denial-of-Service Vulnerabilities in Large Language Models](https://arxiv.org/abs/2510.01157) | LLM & Unbounded Drift & DoS Mitigation & Loop Detection |
 | 2025-09 | Independent Researcher | arXiv | [MeVe: A Modular System for Memory Verification and Effective Context Control in Language Models](https://arxiv.org/abs/2509.01514) | LLM & Unbounded Drift & Memory Verification & Context Control |
+| 2025-09 | Tsinghua University | NeurIPS 2025 | [Mitigating Overthinking in Large Reasoning Models via Manifold Steering](https://arxiv.org/abs/2505.22411) | RLLM & Overthinking & Manifold Steering & Mechanistic Interpretability |
 | 2025-08 | Peking University | arXiv | [Efficient reasoning for large reasoning language models via certainty-guided reflection suppression](https://arxiv.org/abs/2508.05337) | RLLM & Overthinking & Reflection Suppression & Certainty Guidance |
 | 2025-07 | Zhejiang University | arXiv | [LAPO: Internalizing Reasoning Efficiency via Length-Adaptive Policy Optimization](https://arxiv.org/abs/2507.15758) | RLLM & Overthinking & Policy Optimization & Length Adaptation |
 | 2025-07 | Fudan University | ACL 2025 | [CoT-Valve: Length-Compressible Chain-of-Thought Tuning](https://aclanthology.org/2025.acl-long.334/) | RLLM & Overthinking & CoT Compression & Efficient Tuning |
