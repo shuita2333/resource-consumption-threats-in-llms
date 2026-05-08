@@ -13,6 +13,7 @@ This page collects papers on defense, mitigation, and control mechanisms for res
 
 | Published | First Author Institution | Venue | Title | Keywords |
 |:--|:--|:--|:--|:--|
+| 2026-04 | Guangdong Provincial Key Laboratory of Ultra High Definition Immersive Media Technology | ACL 2026 | [SeLaR: Selective Latent Reasoning in Large Language Models](https://arxiv.org/abs/2604.08299) | LLM & Overthinking & Latent Reasoning & Entropy Gating |
 | 2026-04 | University of Maryland | arXiv | [Early Stopping for Large Reasoning Models via Confidence Dynamics](https://arxiv.org/abs/2604.04930) | RLLM & Overthinking & Early Stopping & Confidence Dynamics |
 | 2026-02 | King Abdullah University of Science and Technology | arXiv | [PACE: Prefix-Protected and Difficulty-Aware Compression for Efficient Reasoning](https://arxiv.org/abs/2602.11639) | RLLM & Overthinking & Prefix Protection & Difficulty-Aware Compression |
 | 2026-01 | University of Moratuwa | arXiv | [SHIELD: An Auto-Healing Agentic Defense Framework for LLM Resource Exhaustion Attacks](https://arxiv.org/abs/2601.19174) | Agent & Unbounded Drift & Auto-Healing Defense & Resource Monitoring |

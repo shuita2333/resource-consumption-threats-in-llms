@@ -13,11 +13,14 @@ This page collects papers on resource-oriented attacks against large models, rea
 
 | Published | First Author Institution | Venue | Title | Keywords |
 |:--|:--|:--|:--|:--|
+| 2026-03 | University of California, Merced | arXiv | [Clawdrain: Exploiting Tool-Calling Chains for Stealthy Token Exhaustion in OpenClaw Agents](https://arxiv.org/abs/2603.00902) | Agent & Unbounded Drift & Tool-Calling Chains & Token Exhaustion |
 | 2026-02 | Zhejiang University | arXiv | [Rethinking Latency Denial-of-Service: Attacking the LLM Serving Framework, Not the Model](https://arxiv.org/abs/2602.07878) | LLM & Unbounded Drift & Serving Framework & Scheduler Attack |
 | 2026-02 | Johns Hopkins University | arXiv | [ReasoningBomb: A Stealthy Denial-of-Service Attack by Inducing Pathologically Long Reasoning in Large Reasoning Models](https://arxiv.org/abs/2602.00154) | RLLM & Overthinking & Prompt-Induced DoS & Reinforcement Learning |
 | 2026-02 | Oregon State University | arXiv | [Asking Forever: Universal Activations Behind Turn Amplification in Conversational LLMs](https://arxiv.org/abs/2602.17778) | LLM & Unbounded Drift & Turn Amplification & Universal Activations |
+| 2026-02 | Yonsei University | arXiv | [Overthinking Loops in Agents: A Structural Risk via MCP Tools](https://arxiv.org/abs/2602.14798) | Agent & Overthinking & MCP Tool Loops & Supply-Chain Attack |
 | 2026-01 | National University of Singapore | arXiv | [Sponge Tool Attack: Stealthy Denial-of-Efficiency against Tool-Augmented Agentic Reasoning](https://arxiv.org/abs/2601.17566) | Agent & Overthinking & Tool Attack & Prompt Rewriting |
 | 2026-01 | Sun Yat-sen University | arXiv | [DrainCode: Stealthy Energy Consumption Attacks on Retrieval-Augmented Code Generation via Context Poisoning](https://arxiv.org/abs/2601.20615) | Agent & Unbounded Drift & Context Poisoning & Energy Drain |
+| 2026-01 | Nanyang Technological University | arXiv | [Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents](https://arxiv.org/abs/2601.10955) | Agent & Unbounded Drift & MCP Tool Chains & Economic DoS |
 | 2025-12 | Shanghai Jiao Tong University | arXiv | [ThinkTrap: Denial-of-Service Attacks against Black-box LLM Services via Infinite Thinking](https://arxiv.org/abs/2512.07086) | RLLM & Overthinking & Infinite Thinking & Black-box DoS |
 | 2025-11 | National Interdisciplinary Research Center of Engineering Physics | AAAI 2026 | [LoopLLM: Transferable Energy-Latency Attacks in LLMs via Repetitive Generation](https://arxiv.org/abs/2511.07876) | LLM & Unbounded Drift & Repetitive Generation & Energy-Latency |
 | 2025-11 | Institute of Software, Chinese Academy of Sciences | arXiv | [BadThink: Triggered Overthinking Attacks on Chain-of-Thought Reasoning in Large Language Models](https://arxiv.org/abs/2511.10714) | LLM & Overthinking & Backdoor Attack & CoT Trigger |
