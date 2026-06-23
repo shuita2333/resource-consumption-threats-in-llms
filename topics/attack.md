@@ -13,6 +13,7 @@ This page collects papers on resource-oriented attacks against large models, rea
 
 | Published | First Author Institution | Venue | Title | Keywords |
 |:--|:--|:--|:--|:--|
+| 2026-05 | Institute of Software, Chinese Academy of Sciences | arXiv | [OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents](https://arxiv.org/abs/2605.08876) | Agent & Overthinking & Red Teaming & R-DoS |
 | 2026-03 | University of California, Merced | arXiv | [Clawdrain: Exploiting Tool-Calling Chains for Stealthy Token Exhaustion in OpenClaw Agents](https://arxiv.org/abs/2603.00902) | Agent & Unbounded Drift & Tool-Calling Chains & Token Exhaustion |
 | 2026-02 | Zhejiang University | arXiv | [Rethinking Latency Denial-of-Service: Attacking the LLM Serving Framework, Not the Model](https://arxiv.org/abs/2602.07878) | LLM & Unbounded Drift & Serving Framework & Scheduler Attack |
 | 2026-02 | Johns Hopkins University | arXiv | [ReasoningBomb: A Stealthy Denial-of-Service Attack by Inducing Pathologically Long Reasoning in Large Reasoning Models](https://arxiv.org/abs/2602.00154) | RLLM & Overthinking & Prompt-Induced DoS & Reinforcement Learning |
